@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A Front-end developer looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.</h3>
+<h3 align="left">Software Developer | Seasoned Full Stack JavaScript Developer skilled in ReactJS, NextJS and ExpressJS. Proven record in crafting scalable MERN Stack web applications.</h3>
 
 ###
 
